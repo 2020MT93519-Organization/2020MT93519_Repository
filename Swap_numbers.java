@@ -8,7 +8,8 @@ public class Swap_Two_Numbers {
 
         int value1 = 100;
         int value2 = 200;
-        int temp;
+        int temp_1;
+        int sub;
       
         System.out.println("--Before swap--");
         System.out.println("Value 1 = " + value1);

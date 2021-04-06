@@ -8,15 +8,15 @@ public class Swap_Two_Numbers {
 
         int value1 = 100;
         int value2 = 200;
-        int temp;
+        int temporary;
       
         System.out.println("--Before swap--");
         System.out.println("Value 1 = " + value1);
         System.out.println("Value 2 = " + value2);
 
-        temp = value1;
+        temporary = value1;
         value1 = value2;
-        value2 = temp;
+        value2 = temporary;
 
         System.out.println("--After swap--");
         System.out.println("Value 1 = " + value1);

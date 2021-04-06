@@ -14,6 +14,7 @@ public class Swap_Two_Numbers {
         System.out.println("Value 1 = " + value1);
         System.out.println("Value 2 = " + value2);
 
+        //Code to swap two numbers using 'temp' variable
         temp = value1;
         value1 = value2;
         value2 = temp;
